@@ -1,0 +1,1 @@
+<view class="content"><van-button wx:if="{{a}}" u-t="m" u-i="695b6bdb-0" bind:__l="__l" u-p="{{a}}">按钮</van-button></view>
