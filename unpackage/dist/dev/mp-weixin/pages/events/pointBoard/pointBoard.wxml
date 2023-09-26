@@ -1,0 +1,1 @@
+<view><view class="search"><van-search wx:if="{{a}}" u-t="m" u-i="33d64ca3-0" bind:__l="__l" u-p="{{a}}"/></view><stick-title wx:if="{{b}}" u-i="33d64ca3-1" bind:__l="__l" u-p="{{b}}"></stick-title><volunteer wx:for="{{c}}" wx:for-item="item" wx:key="a" u-i="{{item.b}}" bind:__l="__l"></volunteer></view>

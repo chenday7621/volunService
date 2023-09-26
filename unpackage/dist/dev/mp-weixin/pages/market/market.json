@@ -1,5 +1,7 @@
 {
-  "navigationBarTitleText": "",
+  "navigationBarTitleText": "积分商城",
   "enablePullDownRefresh": false,
-  "usingComponents": {}
+  "usingComponents": {
+    "stick-title": "../../components/stickTitle/stickTitle"
+  }
 }

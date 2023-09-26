@@ -3,10 +3,37 @@
     "pages/index/index",
     "pages/events/events",
     "pages/market/market",
-    "pages/home/home"
+    "pages/home/home",
+    "pages/login/login",
+    "pages/signin/signin",
+    "pages/functions/myInfo/myInfo",
+    "pages/functions/changePwd/changePwd",
+    "pages/functions/message/message",
+    "pages/points/pointsInfo/pointsInfo",
+    "pages/points/pointsExchange/pointsExchange",
+    "pages/functions/address/address",
+    "pages/functions/addAddress/addAddress",
+    "pages/functions/changeAddress/changeAddress",
+    "pages/functions/serveList/serveList",
+    "pages/events/pointBoard/pointBoard",
+    "pages/events/announce/announce",
+    "pages/functions/tissue/tissue",
+    "pages/functions/tissue/communityApply/communityApply",
+    "pages/functions/tissue/createTeam/createTeam",
+    "pages/functions/tissue/teamInfo/teamInfo"
   ],
   "usingComponents": {
-    "van-button": "/wxcomponents/dist/button/index"
+    "van-button": "/wxcomponents/dist/button/index",
+    "van-field": "/wxcomponents/dist/field/index",
+    "van-radio": "/wxcomponents/dist/radio/index",
+    "van-radio-group": "/wxcomponents/dist/radio-group/index",
+    "van-search": "/wxcomponents/dist/search/index",
+    "van-image": "/wxcomponents/dist/image/index",
+    "van-tag": "/wxcomponents/dist/tag/index",
+    "van-tab": "/wxcomponents/dist/tab/index",
+    "van-tabs": "/wxcomponents/dist/tabs/index",
+    "van-checkbox": "/wxcomponents/dist/checkbox/index",
+    "van-dialog": "/wxcomponents/dist/dialog/index"
   },
   "window": {
     "navigationBarTextStyle": "black",
@@ -16,7 +43,7 @@
   },
   "tabBar": {
     "color": "#7A7E83",
-    "selectedColor": "red",
+    "selectedColor": "#D23228",
     "borderStyle": "black",
     "backgroundColor": "#ffffff",
     "list": [

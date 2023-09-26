@@ -1,0 +1,1 @@
+<view class="root data-v-405d6c4c"><van-image wx:if="{{a}}" class="data-v-405d6c4c" u-t="m" u-i="405d6c4c-0" bind:__l="__l" u-p="{{a}}"/><view class="word data-v-405d6c4c"><view class="name data-v-405d6c4c"> 月岛萤 </view><view class="detail data-v-405d6c4c"> 擅长心理咨询、体育服务 </view></view></view>

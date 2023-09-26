@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "积分排行榜",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "stick-title": "../../../components/stickTitle/stickTitle",
+    "volunteer": "../../../components/volunteer/volunteer"
+  }
+}

@@ -1,5 +1,7 @@
 {
-  "navigationBarTitleText": "",
+  "navigationBarTitleText": "我的",
   "enablePullDownRefresh": false,
-  "usingComponents": {}
+  "usingComponents": {
+    "stick-title": "../../components/stickTitle/stickTitle"
+  }
 }

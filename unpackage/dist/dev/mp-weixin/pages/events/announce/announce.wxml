@@ -1,0 +1,1 @@
+<view class="data-v-7f14225c"><view wx:for="{{a}}" wx:for-item="item" wx:key="d" class="item data-v-7f14225c"><image class="data-v-7f14225c" src="{{item.a}}" mode="aspectFill"></image><view class="word data-v-7f14225c"><view class="title data-v-7f14225c">{{item.b}}</view><view class="time data-v-7f14225c">{{item.c}}</view></view></view></view>

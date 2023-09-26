@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "登录账号",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "login-by-account": "../../components/loginByAccount/loginByAccount",
+    "login-by-phone": "../../components/loginByPhone/loginByPhone"
+  }
+}
